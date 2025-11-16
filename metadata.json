@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 3D Multiplayer Battleground",
+  "description": "A 3D multiplayer battleground game inspired by Dragon Ball Z, built with React, Three.js, and Firebase for real-time synchronization. Players can move around a 3D arena and fire 'Ki Blasts' at each other.",
+  "requestFramePermissions": []
+}
